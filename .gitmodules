@@ -1,0 +1,3 @@
+[submodule "VFDB"]
+	path = VFDB
+	url = https://github.com/BeatsonLab-MicrobialGenomics/VFDB.git
