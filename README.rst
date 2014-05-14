@@ -163,6 +163,9 @@ The files have the following patterns:
 VFDB
 ----
 
+We updated VFDB in May 2014 to include the fimH, parC and gyrA alleles used in the 
+study. Please see: https://github.com/BeatsonLab-MicrobialGenomics/VFDB/tree/master/fimH_parC_gyrA 
+
 These are the sequences along with the draft genomes that were used as inputs 
 to `SeqFindR`_ to generate the presence/absence plots (Figure 3, Figure S4, and
 Figure S6). See the `VFDB repository`_ for more information.  
